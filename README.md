@@ -1,5 +1,9 @@
-# test.repo
-This is terrible description!
+# Introduction
 
+This is a repository created by *Holden*
 
-This is much worse
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
